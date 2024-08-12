@@ -49,7 +49,7 @@ const RecipeDetail = () => {
                 <p>{item.strInstructions}</p>
             </div>
             <div className='Youtubevdo'>
-                <iframe allow width='90%' height='400px' src={`https://www.youtube.com/embed/${yid}`}>
+                <iframe allow width='90%' height='400px' src={`https://www.youtube.com/embed/${yid}`}title="Description of the iframe content">
                 </iframe>
             </div>
             
