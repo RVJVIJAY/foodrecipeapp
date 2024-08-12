@@ -29,7 +29,7 @@ const RecipeDetail = () => {
   return (
     <div className='container-recipedetail'>
       <div className='head-detail overlay'>
-        <img className='img-detail' src={item.strMealThumb} alt={`Image of ${item.strMeal}`} />
+        <img className='img-detail' src={item.strMealThumb} alt={item.strMeal} />
         <h1>Category: {item.strCategory}</h1>
         <h3>{item.strMeal}</h3>
         <div className='btn'>
