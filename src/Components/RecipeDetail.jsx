@@ -68,7 +68,7 @@ const RecipeDetail = () => {
         )}
       </div>
     </div>
-  );
+  ); 
 };
 
 export default RecipeDetail;

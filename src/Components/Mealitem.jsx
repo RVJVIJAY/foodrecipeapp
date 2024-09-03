@@ -8,7 +8,6 @@ const Mealitem = ({ val }) => {
       { !val ? (
         <h1>not found</h1>
       ) :
-      
         val.map((item)=>(
             (
                 <div className="card" key={item.idMeal} onClick={()=>navigate(`/:${item.idMeal}`)}>
