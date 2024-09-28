@@ -2,6 +2,7 @@
 
 # sample screen 
 <img src="./public/foodrecipe.png" alt="App Screenshot" width="600" />
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
