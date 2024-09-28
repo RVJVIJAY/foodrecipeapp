@@ -1,5 +1,7 @@
 # Food Recipe App
 
+# sample screen 
+ ![App Screenshot](./public/foodrecipe.png){: width="600px"}
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
